@@ -1,0 +1,6 @@
+C:/Users/23776/Desktop/计算机图形学/PA1_publish/code/out/build/x64-Debug/CMakeFiles/PA1.dir
+C:/Users/23776/Desktop/计算机图形学/PA1_publish/code/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/23776/Desktop/计算机图形学/PA1_publish/code/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/23776/Desktop/计算机图形学/PA1_publish/code/out/build/x64-Debug/deps/vecmath/CMakeFiles/vecmath.dir
+C:/Users/23776/Desktop/计算机图形学/PA1_publish/code/out/build/x64-Debug/deps/vecmath/CMakeFiles/edit_cache.dir
+C:/Users/23776/Desktop/计算机图形学/PA1_publish/code/out/build/x64-Debug/deps/vecmath/CMakeFiles/rebuild_cache.dir

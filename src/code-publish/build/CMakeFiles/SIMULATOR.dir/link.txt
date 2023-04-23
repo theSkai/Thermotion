@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/SIMULATOR.dir/src/main.cpp.o  -o ../bin/SIMULATOR  deps/vecmath/libvecmath.a -lpthread 
