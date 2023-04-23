@@ -5,7 +5,7 @@ This is the supplementary repository for 'Thermotion: Design and Fabrication of 
 The work studies the mechanism, design space, and the design and fabrication workflow of Themotion composites, which utilize thermofluidic flows in fluidic channels embedded under the object surfaces, dynamically controlling the surface temperature as an actuator for thermochromic animation effects. 
 
 Here we provide the instructions on installation and usage of Thermotion Design Tool, source code for secondary development, and 3D-printing models of most examples we used in the research for replication. We would thank Tianyu Yu and Weiye Xu for the contribution to the repository.
-
+ 
 #### Contents
 
 - [Installation and Usage of Thermotion Design Tool](#installation-and-usage-of-thermotion-design-tool)
