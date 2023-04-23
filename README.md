@@ -88,7 +88,8 @@ We provide 3D printed models for most examples in the paper in [./3D model](/3D%
 ## Citation and License 
 
 When using or building upon this device/work in an academic publication, please consider citing as follows:
-...
+
+Tianyu Yu, Weiye Xu, Haiqing Xu, Guanhong Liu, Chang Liu, Guanyun Wang, and Haipeng Mi. 2023. Thermotion: Design and Fabrication of Thermofluidic Composites for Animation Effects on Object Surfaces. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23). Association for Computing Machinery, New York, NY, USA, Article 425, 1–19. [https://doi.org/10.1145/3544548.3580743](https://doi.org/10.1145/3544548.3580743)
 
 This project follows CC BY-NC-SA 4.0 License, see [Creative Commons — Attribution-NonCommercial-ShareAlike 4.0 International — CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode). This project uses the vector computing module (vecmath) from the source code of Basic Computer Graphics course in Tsinghua on 2022/3/18. Document (on 2022/3/18) from the source code of that course claim to follow the CC BY-NC-SA 4.0 License and partially borrow code from MIT Open Courseware, see [OCW Course Index | MIT OpenCourseWare | Free Online Course Materials](https://ocw-origin.odl.mit.edu/courses/) 
 
