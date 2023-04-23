@@ -1,0 +1,9 @@
+C:\Users\23776\Desktop\SimulatorMethods\GrassHopperDevelop\ThermotionDesignTool2\ThermotionDesignTool2\bin\Debug\net48\ThermotionDesignTool2.gha
+C:\Users\23776\Desktop\SimulatorMethods\GrassHopperDevelop\ThermotionDesignTool2\ThermotionDesignTool2\bin\Debug\net48\ThermotionDesignTool2.pdb
+C:\Users\23776\Desktop\SimulatorMethods\GrassHopperDevelop\ThermotionDesignTool2\ThermotionDesignTool2\obj\Debug\net48\ThermotionDesignTool2.csproj.AssemblyReference.cache
+C:\Users\23776\Desktop\SimulatorMethods\GrassHopperDevelop\ThermotionDesignTool2\ThermotionDesignTool2\obj\Debug\net48\ThermotionDesignTool2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23776\Desktop\SimulatorMethods\GrassHopperDevelop\ThermotionDesignTool2\ThermotionDesignTool2\obj\Debug\net48\ThermotionDesignTool2.AssemblyInfoInputs.cache
+C:\Users\23776\Desktop\SimulatorMethods\GrassHopperDevelop\ThermotionDesignTool2\ThermotionDesignTool2\obj\Debug\net48\ThermotionDesignTool2.AssemblyInfo.cs
+C:\Users\23776\Desktop\SimulatorMethods\GrassHopperDevelop\ThermotionDesignTool2\ThermotionDesignTool2\obj\Debug\net48\ThermotionDesignTool2.csproj.CoreCompileInputs.cache
+C:\Users\23776\Desktop\SimulatorMethods\GrassHopperDevelop\ThermotionDesignTool2\ThermotionDesignTool2\obj\Debug\net48\ThermotionDesignTool2.gha
+C:\Users\23776\Desktop\SimulatorMethods\GrassHopperDevelop\ThermotionDesignTool2\ThermotionDesignTool2\obj\Debug\net48\ThermotionDesignTool2.pdb
