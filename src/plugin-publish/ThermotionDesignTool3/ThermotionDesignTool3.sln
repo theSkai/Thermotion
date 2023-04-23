@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThermotionDesignTool3", "ThermotionDesignTool3\ThermotionDesignTool3.csproj", "{B37745D4-7427-4657-A297-F2DFE88AE486}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B37745D4-7427-4657-A297-F2DFE88AE486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B37745D4-7427-4657-A297-F2DFE88AE486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B37745D4-7427-4657-A297-F2DFE88AE486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B37745D4-7427-4657-A297-F2DFE88AE486}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4641CAF9-3956-43FA-B440-03E4F283234D}
+	EndGlobalSection
+EndGlobal

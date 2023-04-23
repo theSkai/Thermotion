@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ekrXirfPAlLUJiyDsCpvkynd6P07K4O6SOzcqRM1mKqLAesC7I1NOxef15wEyA2NNeTgYYg+lLvKhQoizB8SZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\23776\\Desktop\\PRJ-publish\\src\\plugin-publish\\ThermotionDesignTool3\\ThermotionDesignTool3\\ThermotionDesignTool3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\23776\\.nuget\\packages\\grasshopper\\7.13.21348.13001\\grasshopper.7.13.21348.13001.nupkg.sha512",
+    "C:\\Users\\23776\\.nuget\\packages\\rhinocommon\\7.13.21348.13001\\rhinocommon.7.13.21348.13001.nupkg.sha512"
+  ],
+  "logs": []
+}
